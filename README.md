@@ -12,7 +12,6 @@ Kutira Kushala is an Android application designed to showcase micro-factories an
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose
 - **Asynchronous Work**: Coroutines & Flow
-- **Image Loading**: Coil
 - **AI Integration**: Gemini API for enhanced features.
 
 ## Getting Started
