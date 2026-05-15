@@ -4,7 +4,7 @@ Kutira Kushala is an Android application designed to showcase micro-factories an
 
 ## Features
 - **Authentication**: Sign in with Email or Phone (OTP).
-  i.e Email-kamalp1450@gmail.com Password-Kamal@12 #use it Or Register your details.
+  i.e Email-kamalp1450@gmail.com Password-Kamal@12 #use it or Register your details.
 - **Showcase**: Browse different micro-factories in various categories like Craft, Agarbatti, Food, and Textile.
 - **Registration**: Register your own business to reach more buyers.
 
