@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.ui.theme
+package com.kutirakushala.app.ui.theme
 
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.lightColorScheme

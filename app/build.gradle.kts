@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kutirakushala.app"
+    namespace = "com.kutirakushala.app"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.kutirakushala.app"
+        applicationId = "com.kutirakushala.app"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

@@ -1,11 +1,11 @@
-package com.example.kutirakushala.app.data.repository
+package com.kutirakushala.app.data.repository
 
 import android.net.Uri
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.firestore.Query
 import com.google.firebase.storage.FirebaseStorage
-import com.example.kutirakushala.app.data.model.Business
-import com.example.kutirakushala.app.data.model.Product
+import com.kutirakushala.app.data.model.Business
+import com.kutirakushala.app.data.model.Product
 import kotlinx.coroutines.tasks.await
 import java.util.UUID
 

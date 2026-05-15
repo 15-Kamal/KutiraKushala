@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.ui.screens
+package com.kutirakushala.app.ui.screens
 
 import android.app.Activity
 import androidx.compose.animation.AnimatedContent
@@ -90,15 +90,15 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.kutirakushala.app.R
-import com.example.kutirakushala.app.ui.theme.CapacityRed
-import com.example.kutirakushala.app.ui.theme.Leaf
-import com.example.kutirakushala.app.ui.theme.OnSaffron
-import com.example.kutirakushala.app.ui.theme.Saffron
-import com.example.kutirakushala.app.ui.theme.SaffronDark
-import com.example.kutirakushala.app.ui.theme.SaffronLight
-import com.example.kutirakushala.app.viewmodel.AuthState
-import com.example.kutirakushala.app.viewmodel.AuthViewModel
+import com.kutirakushala.app.R
+import com.kutirakushala.app.ui.theme.CapacityRed
+import com.kutirakushala.app.ui.theme.Leaf
+import com.kutirakushala.app.ui.theme.OnSaffron
+import com.kutirakushala.app.ui.theme.Saffron
+import com.kutirakushala.app.ui.theme.SaffronDark
+import com.kutirakushala.app.ui.theme.SaffronLight
+import com.kutirakushala.app.viewmodel.AuthState
+import com.kutirakushala.app.viewmodel.AuthViewModel
 
 private val MUTED = Color(0xFF9E8C7D)
 

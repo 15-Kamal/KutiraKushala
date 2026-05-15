@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.data.ai
+package com.kutirakushala.app.data.ai
 
 import com.google.ai.client.generativeai.GenerativeModel
 

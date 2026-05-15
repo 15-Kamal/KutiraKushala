@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.ui.navigation
+package com.kutirakushala.app.ui.navigation
 
 object Routes {
     const val LOGIN        = "login"

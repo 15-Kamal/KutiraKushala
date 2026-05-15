@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.ui.screens
+package com.kutirakushala.app.ui.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -12,9 +12,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.focus.FocusRequester
 import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.unit.dp
-import com.example.kutirakushala.app.ui.theme.Saffron
-import com.example.kutirakushala.app.ui.theme.OnSaffron
-import com.example.kutirakushala.app.viewmodel.AppViewModel
+import com.kutirakushala.app.ui.theme.Saffron
+import com.kutirakushala.app.ui.theme.OnSaffron
+import com.kutirakushala.app.viewmodel.AppViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

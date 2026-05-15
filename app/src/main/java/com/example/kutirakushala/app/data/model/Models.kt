@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.data.model
+package com.kutirakushala.app.data.model
 
 data class Business(
     val id: String = "",

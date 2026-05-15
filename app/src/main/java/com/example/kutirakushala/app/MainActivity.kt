@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app
+package com.kutirakushala.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -13,11 +13,11 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
-import com.example.kutirakushala.app.ui.navigation.Routes
-import com.example.kutirakushala.app.ui.screens.*
-import com.example.kutirakushala.app.ui.theme.KutiraKushalaTheme
-import com.example.kutirakushala.app.viewmodel.AppViewModel
-import com.example.kutirakushala.app.viewmodel.AuthViewModel
+import com.kutirakushala.app.ui.navigation.Routes
+import com.kutirakushala.app.ui.screens.*
+import com.kutirakushala.app.ui.theme.KutiraKushalaTheme
+import com.kutirakushala.app.viewmodel.AppViewModel
+import com.kutirakushala.app.viewmodel.AuthViewModel
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

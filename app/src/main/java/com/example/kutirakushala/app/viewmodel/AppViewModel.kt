@@ -1,13 +1,13 @@
-package com.example.kutirakushala.app.viewmodel
+package com.kutirakushala.app.viewmodel
 
 import android.net.Uri
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.google.firebase.auth.FirebaseAuth
-import com.example.kutirakushala.app.data.ai.GeminiHelper
-import com.example.kutirakushala.app.data.model.Business
-import com.example.kutirakushala.app.data.model.Product
-import com.example.kutirakushala.app.data.repository.BusinessRepository
+import com.kutirakushala.app.data.ai.GeminiHelper
+import com.kutirakushala.app.data.model.Business
+import com.kutirakushala.app.data.model.Product
+import com.kutirakushala.app.data.repository.BusinessRepository
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow

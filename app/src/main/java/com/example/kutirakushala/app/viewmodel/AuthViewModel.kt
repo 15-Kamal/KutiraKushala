@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.viewmodel
+package com.kutirakushala.app.viewmodel
 
 import android.app.Activity
 import androidx.lifecycle.ViewModel

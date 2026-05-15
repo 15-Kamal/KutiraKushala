@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.ui.screens
+package com.kutirakushala.app.ui.screens
 
 import android.net.Uri
 import androidx.activity.compose.rememberLauncherForActivityResult
@@ -36,12 +36,12 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
-import com.example.kutirakushala.app.data.model.Business
-import com.example.kutirakushala.app.data.model.Categories
-import com.example.kutirakushala.app.ui.theme.*
-import com.example.kutirakushala.app.viewmodel.AppViewModel
-import com.example.kutirakushala.app.viewmodel.AuthState
-import com.example.kutirakushala.app.viewmodel.AuthViewModel
+import com.kutirakushala.app.data.model.Business
+import com.kutirakushala.app.data.model.Categories
+import com.kutirakushala.app.ui.theme.*
+import com.kutirakushala.app.viewmodel.AppViewModel
+import com.kutirakushala.app.viewmodel.AuthState
+import com.kutirakushala.app.viewmodel.AuthViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

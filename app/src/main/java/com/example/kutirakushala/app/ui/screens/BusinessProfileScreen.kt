@@ -1,4 +1,4 @@
-package com.example.kutirakushala.app.ui.screens
+package com.kutirakushala.app.ui.screens
 
 import android.content.Intent
 import android.net.Uri
@@ -73,16 +73,16 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import coil.compose.AsyncImage
-import com.example.kutirakushala.app.data.model.Product
-import com.example.kutirakushala.app.ui.theme.CapacityRed
-import com.example.kutirakushala.app.ui.theme.Clay
-import com.example.kutirakushala.app.ui.theme.Cream
-import com.example.kutirakushala.app.ui.theme.Leaf
-import com.example.kutirakushala.app.ui.theme.OnSaffron
-import com.example.kutirakushala.app.ui.theme.Saffron
-import com.example.kutirakushala.app.ui.theme.SaffronDark
-import com.example.kutirakushala.app.ui.theme.SaffronLight
-import com.example.kutirakushala.app.viewmodel.AppViewModel
+import com.kutirakushala.app.data.model.Product
+import com.kutirakushala.app.ui.theme.CapacityRed
+import com.kutirakushala.app.ui.theme.Clay
+import com.kutirakushala.app.ui.theme.Cream
+import com.kutirakushala.app.ui.theme.Leaf
+import com.kutirakushala.app.ui.theme.OnSaffron
+import com.kutirakushala.app.ui.theme.Saffron
+import com.kutirakushala.app.ui.theme.SaffronDark
+import com.kutirakushala.app.ui.theme.SaffronLight
+import com.kutirakushala.app.viewmodel.AppViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
