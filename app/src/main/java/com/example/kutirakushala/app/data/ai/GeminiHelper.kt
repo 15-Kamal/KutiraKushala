@@ -5,7 +5,7 @@ import com.google.ai.client.generativeai.GenerativeModel
 object GeminiHelper {
 
     // Replace with your Gemini API key from https://aistudio.google.com/apikey
-    private const val API_KEY = "AIzaSyBvaxPdqc2Gu6VIiwIn7d5rupjMBDhqTIQ"
+    private const val API_KEY = "Add_API_Key"
 
     private val model by lazy {
         GenerativeModel(modelName = "gemini-1.5-flash", apiKey = API_KEY)
